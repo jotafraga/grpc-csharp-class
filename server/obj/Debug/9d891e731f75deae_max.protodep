@@ -1,0 +1,2 @@
+models/Max.cs \
+models/MaxGrpc.cs: ../max.proto
